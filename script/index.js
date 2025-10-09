@@ -31,7 +31,7 @@ const displayPlants = (plants) => {
 
 
             </div>
-            <button class="mt-3 px-4 py-2 bg-green-500 text-white rounded-2xl hover:bg-green-700">
+            <button class=" w-full mt-3 px-4 py-2 bg-green-500 text-white rounded-2xl hover:bg-green-700">
                 Add to Cart
             </button>
         `;
